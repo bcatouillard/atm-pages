@@ -1,0 +1,7 @@
+[tools]
+pre-commit = "latest"
+python = "3.12"
+shellcheck = "latest"
+uv = "latest"
+shfmt = "latest"
+editorconfig-checker = "latest"

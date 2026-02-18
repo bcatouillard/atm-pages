@@ -1,0 +1,54 @@
+[tool.semantic_release]
+upload_to_pypi = false
+upload_to_release = false
+version_toml = [
+    "pyproject.toml:project.version",
+]
+
+[tool.semantic_release.changelog]
+changelog_file = "CHANGELOG.md"
+environment = { keep_trailing_newline = true }
+exclude_commit_patterns = [
+]
+template_dir = "template"
+
+[tool.semantic_release.commit_parser_options]
+allowed_tags = [
+    "major",
+    "feat",
+    "fix",
+    "chore",
+    ":nut_and_bolt:",
+    ":sparkles:",
+]
+major_tags = [
+    "major",
+]
+minor_tags = [
+    "feat",
+    ":sparkles:",
+]
+patch_tags = [
+    "fix",
+    ":nut_and_bolt:",
+]
+
+
+[project]
+name = "atm-pages"
+version = "0.1.0"
+description = "ATM wiki to get things in the way we want it."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mkdocs>=1.6.1",
+]
+
+[dependency-groups]
+dev = [
+    "poethepoet>=0.41.0",
+    "pylint>=4.0.4",
+    "pyright>=1.1.408",
+    "ruff>=0.15.1",
+    "taplo>=0.9.3",
+]

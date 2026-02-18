@@ -1,0 +1,5 @@
+site_name: ATM Pages
+repo_name: bcatouillard/atm-pages
+repo_url: https://github.com/bcatouillard/atm-pages
+
+INHERIT: ./navigation.yml

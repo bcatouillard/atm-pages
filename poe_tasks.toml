@@ -1,0 +1,3 @@
+[tasks]
+"dev" = "uv run mkdocs serve -w ."
+"build" = "uv run mkdocs build"
