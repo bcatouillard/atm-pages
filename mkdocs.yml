@@ -1,5 +1,7 @@
 site_name: ATM Pages
 repo_name: bcatouillard/atm-pages
 repo_url: https://github.com/bcatouillard/atm-pages
+theme:
+  name: material
 
 INHERIT: ./navigation.yml
