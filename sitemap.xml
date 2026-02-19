@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>http://atm.bcatouillard.fr/</loc>
+         <loc>https://atm.bcatouillard.fr/</loc>
          <lastmod>2026-02-19</lastmod>
     </url>
     <url>
-         <loc>http://atm.bcatouillard.fr/assets/screenshots/</loc>
+         <loc>https://atm.bcatouillard.fr/assets/screenshots/</loc>
          <lastmod>2026-02-19</lastmod>
     </url>
     <url>
-         <loc>http://atm.bcatouillard.fr/bonnes-pratiques/cablage-energie/</loc>
+         <loc>https://atm.bcatouillard.fr/bonnes-pratiques/cablage-energie/</loc>
          <lastmod>2026-02-19</lastmod>
     </url>
     <url>
-         <loc>http://atm.bcatouillard.fr/mods/productive-trees/</loc>
+         <loc>https://atm.bcatouillard.fr/mods/productive-trees/</loc>
          <lastmod>2026-02-19</lastmod>
     </url>
     <url>
-         <loc>http://atm.bcatouillard.fr/mods/productive-bees/</loc>
+         <loc>https://atm.bcatouillard.fr/mods/productive-bees/</loc>
          <lastmod>2026-02-19</lastmod>
     </url>
     <url>
-         <loc>http://atm.bcatouillard.fr/mods/productive-bees/genes/</loc>
+         <loc>https://atm.bcatouillard.fr/mods/productive-bees/genes/</loc>
          <lastmod>2026-02-19</lastmod>
     </url>
     <url>
-         <loc>http://atm.bcatouillard.fr/tips/jei/</loc>
+         <loc>https://atm.bcatouillard.fr/tips/jei/</loc>
          <lastmod>2026-02-19</lastmod>
     </url>
 </urlset>
