@@ -1,4 +1,4 @@
-Ce dossier contient les captures d'écran utilisées par le wiki.
+# Ce dossier contient les captures d'écran utilisées par le wiki.
 
 Noms de fichiers suggérés (placez vos images ici) :
 
