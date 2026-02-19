@@ -1,0 +1,13 @@
+
+nav:
+  - Accueil: index.md
+  - Bonnes pratiques:
+    - Câblage énergie: docs/bonnes-pratiques/cablage-energie.md
+  - TIPS:
+    - JEI: docs/tips/jei.md
+  - Mods:
+    - Productive Trees: docs/mods/productive-trees.md
+    - Productive Bees:
+      - Aperçu: docs/mods/productive-bees/index.md
+      - Génération de ressources (gènes): docs/mods/productive-bees/genes.md
+
