@@ -1,7 +1,8 @@
 site_name: ATM Pages
-site_url: http://atm.bcatouillard.fr
+site_url: https://atm.bcatouillard.fr
 repo_name: bcatouillard/atm-pages
 repo_url: https://github.com/bcatouillard/atm-pages
+use_directory_urls: false
 theme:
   name: material
 
